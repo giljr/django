@@ -50,7 +50,7 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#01](DJG_01/) #DjangoSeries- [**Django MTV In VS Code - How To Install Django Inside Virtual VS Code**](https://medium.com/jungletronics/django-mtv-in-vs-code-a5953b09a4fd) — How to set up the Visual Studio Code for writing and executing a Django  Application on Windows 10 eas·i·ly!🤔 
 
-
+[#02](DJG_02/) #DjangoSeries- [**Can You Solve This in Python? Here is The Python Think!**](https://medium.com/jungletronics/can-you-solve-this-in-python-9af754c3087f) — Milestone: a brand new 'Python Impressionador' Certification - Hashtag Treinamentos
 
 ### License
 
