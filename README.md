@@ -14,8 +14,8 @@ Meet Django
 ```
 You're more then welcome to visit my Web Pages: 
 
- 🧐[Jungletronics](https://medium.com/jungletronics) (Arduino, RPi, PIC, Eagle, Blender, Unity3D, Pixy, and more) 
- [KidsTronics](https://medium.com/kidstronics) (MIT App Inventor, LEGO, Arduino For Kids, and more)
+ 🧐[Jungletronics](https://medium.com/jungletronics) (Python, C, Arduino, RasPi, PIC, Eagle, Blender,  and more) 
+ [KidsTronics](https://medium.com/kidstronics) (MIT App Inventor, Geogebra, LEGO, Pixy, Unity3D, Arduino For Kids, and more)
  
 And my [Youtube Channel Playlist](https://www.youtube.com/playlist?list=PLK3PeNcUzb8TwZuXZJgREj5nDbQxRLW_a)
 
@@ -50,7 +50,11 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#01](DJG_01/) #DjangoSeries- [**Django MTV In VS Code - How To Install Django Inside Virtual VS Code**](https://medium.com/jungletronics/django-mtv-in-vs-code-a5953b09a4fd) — How to set up the Visual Studio Code for writing and executing a Django  Application on Windows 10 eas·i·ly!🤔 
 
-[#02](DJG_02/) #DjangoSeries- [**Can You Solve This in Python? Here is The Python Think!**](https://medium.com/jungletronics/can-you-solve-this-in-python-9af754c3087f) — Milestone: a brand new 'Python Impressionador' Certification - Hashtag Treinamentos
+[#02](DJG_02/) #DjangoSeries- [**Can You Solve This in Python? Here is A Basic Python Question!**](https://medium.com/jungletronics/can-you-solve-this-in-python-9af754c3087f) — Milestone (Jan First, 2022): a brand new 'Python Impressionador' [Certification](https://hashtag.eadplataforma.com/certificado/4252) - Hashtag Treinamentos 👌
+
+[#03](DJG_03/) #DjangoSeries- [**Can You Solve This in Python? Here is A Basic Python Question!**](https://medium.com/jungletronics/can-you-solve-this-in-python-9af754c3087f) — Milestone (Jan First, 2022): a brand new 'Python Impressionador' [Certification](https://hashtag.eadplataforma.com/certificado/4252) - Hashtag Treinamentos 👌
+
+[#04](DJG_04/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👌
 
 ### License
 
