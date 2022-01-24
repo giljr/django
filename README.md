@@ -52,7 +52,7 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#02](DJG_02/) #DjangoSeries- [**Can You Solve This in Python? Here is A Basic Python Question!**](https://medium.com/jungletronics/can-you-solve-this-in-python-9af754c3087f) — Milestone (Jan First, 2022): a brand new 'Python Impressionador' [Certification](https://hashtag.eadplataforma.com/certificado/4252) - Hashtag Treinamentos 👌
 
-[#03](DJG_03/) #DjangoSeries- [**Can You Solve This in Python? Here is A Basic Python Question!**](https://medium.com/jungletronics/can-you-solve-this-in-python-9af754c3087f) — Milestone (Jan First, 2022): a brand new 'Python Impressionador' [Certification](https://hashtag.eadplataforma.com/certificado/4252) - Hashtag Treinamentos 👌
+[#03](DJG_03/) #DjangoSeries- [**JUNGLE-DJANGO Webpage! This Is My New Django Netflix Clone Page!**]() — NetFlix Clone ✨
 
 [#04](DJG_04/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👌
 
