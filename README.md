@@ -54,7 +54,9 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#03](DJG_03/) #DjangoSeries- [**JUNGLE-DJANGO Webpage! This Is My New Django Netflix Clone Page!**]() — NetFlix Clone ✨
 
-[#04](DJG_04/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👌
+[#04](DJG_04/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART I**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👌
+
+[#05](DJG_05/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART II**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👏
 
 ### License
 
