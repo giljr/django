@@ -56,7 +56,7 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#04](DJG_04/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART I**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👌
 
-[#05](DJG_05/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART II**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👏
+[#05](DJG_05/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART II**]() — Based on [Corey Schafer Django Tutorial](https://medium.com/jungletronics/a-django-blog-in-vs-code-a36fa085ea11) 👏
 
 ### License
 
