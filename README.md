@@ -54,17 +54,41 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#03](DJG_03/) #DjangoSeries- [**JUNGLE-DJANGO Webpage! This Is My New Django Netflix Clone Page!**]() — NetFlix Clone ✨
 
-[#04](DJG_04/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART I**](https://medium.com/jungletronics/a-django-blog-in-vs-code-fb23335d9196) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👌
+[#04](DJG_04/) #DjangoSeries- [**A Django Blog In VS Code - Quick Start! - PART I** - ](https://medium.com/jungletronics/a-django-blog-in-vs-code-fb23335d9196) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👌
 
-[#05](DJG_05/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART II**](https://medium.com/jungletronics/a-django-blog-in-vs-code-a36fa085ea11) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👏
+[#05](DJG_05/) #DjangoSeries- [**A Django Blog In VS Code - Database - Migrations & Queries - PART II**](https://medium.com/jungletronics/a-django-blog-in-vs-code-a36fa085ea11) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👈
 
-[#06](DJG_06/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART III**](https://medium.com/jungletronics/a-django-blog-in-vs-code-c090eef59849) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👏
+[#06](DJG_06/) #DjangoSeries- [**A Django Blog In VS Code - Bootstrap - Tailwind CSS - Template Inheritance - PART III**](https://medium.com/jungletronics/a-django-blog-in-vs-code-c090eef59849) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👈
 
-[#07](DJG_07/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART IV**](https://medium.com/jungletronics/a-django-blog-in-vs-code-46b6e9915b9a) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👏
+[#07](DJG_07/) #DjangoSeries- [**A Django Blog In VS Code - Forms & Validations - PART IV**](https://medium.com/jungletronics/a-django-blog-in-vs-code-46b6e9915b9a) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👈
 
-[#08](DJG_08/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART V**](https://medium.com/jungletronics/a-django-blog-in-vs-code-368b22a981ea) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👏
+[#08](DJG_08/) #DjangoSeries- [**A Django Blog In VS Code - Authentications - Login & Logout - PART V**](https://medium.com/jungletronics/a-django-blog-in-vs-code-368b22a981ea) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👈
 
-[#09](DJG_09/) #DjangoSeries- [**A Django Blog In VS Code - How To Create A Blog in VS Code - PART V**]() — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👏
+[#09](DJG_09/) #DjangoSeries- [**A Django Blog In VS Code - Upload Profile Picture - PART VI**](https://medium.com/jungletronics/a-django-blog-in-vs-code-6dee94cec9c0) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👈
+
+[#10](DJG_10/) #DjangoSeries- [**A Django Blog In VS Code - Update & Resize Picture - PART VII**](https://medium.com/jungletronics/a-django-blog-in-vs-code-8449d3e1754d) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👈 
+
+[#11](DJG_11/) #DjangoSeries- [**A Django Blog In VS Code - Class-Based-View & CRUD - PART VIII**](https://medium.com/jungletronics/a-django-blog-in-vs-code-3b6fc8eb19aa) — Based on [Corey Schafer Django Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) 👈
+
+
+###	Quick Start
+To get this project up and running locally on your computer:
+
+Set up the Python development environment. We recommend using a Python virtual environment.
+Assuming you have Python setup, run the following commands (if you're on Windows you may use py or py -3 instead of python to start Python):
+
+Check list:
+- [ ] pip3 install -r requirements.txt
+- [ ] python3 manage.py makemigrations
+- [ ] python3 manage.py makemigrations
+- [ ]python3 manage.py migrate
+- [ ]python3 manage.py collectstatic
+- [ ]python3 manage.py test # Run the standard tests. These should all pass.
+- [ ]python3 manage.py createsuperuser # Create a superuser
+- [ ]python3 manage.py runserver
+- [ ]Open a browser to http://127.0.0.1:8000/admin/ to open the admin site
+- [ ]Create a few test objects of each type.
+- [ ]Open tab to http://127.0.0.1:8000 to see the main site, with your new objects.
 
 ### License
 
