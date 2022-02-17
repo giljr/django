@@ -70,6 +70,9 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#11](DJG_11/) #DjangoSeries- [**A Django Blog In VS Code - Class-Based-View & CRUD - PART VIII**](https://medium.com/jungletronics/a-django-blog-in-vs-code-3b6fc8eb19aa) 👈
 
+[#12](DJG_12/) #DjangoSeries- [**A Django Blog In VS Code - Posts Pagination & Quick DB Population - PART IX**](https://medium.com/jungletronics/a-django-blog-in-vs-code-posts-pagination-quick-db-population-2c561310cf3c) 👈
+
+
 
 ###	Quick Start
 To get this project up and running locally on your computer:
@@ -85,10 +88,17 @@ Check list:
 - [ ] python3 manage.py collectstatic
 - [ ] python3 manage.py test # Run the standard tests. These should all pass.
 - [ ] python3 manage.py createsuperuser # Create a superuser
-- [ ] python3 manage.py runserver
-- [ ] Open a browser to http://127.0.0.1:8000/admin/ to open the admin site
-- [ ] Create a few test objects of each type.
-- [ ] Open tab to http://127.0.0.1:8000 to see the main site, with your new objects.
+- [x] python3 -m venv djangoEnv  
+- [x] djangoEnv\Scripts\activate 
+- [x] python3 -m pip install --upgrade pip
+- [x] python3 -m pip install django 
+- [x] python3 -m django --version  
+- [x] python3 -m pip install django-crispy-forms 
+- [x] python3 -m pip install Pillow
+- [x] python3 manage.py runserver
+- [x] Open a browser to http://127.0.0.1:8000/admin/ to open the admin site
+- [x] Create a few post test objects of each type.
+- [x] Open tab to http://127.0.0.1:8000 to see the main site, with your new objects.
 
 ### License
 

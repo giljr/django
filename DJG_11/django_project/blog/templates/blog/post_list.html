@@ -9,12 +9,11 @@
             <a class="font-weight-bold mr-2" href="#">{{ object.author }}</a>				  
             <small class="text-muted">{{ object.date_posted|date:"F d, Y" }}</small> 				
           </div>				
-          <h1 class="display-6" ><strong><a href="{% url 'post_detail' object.id %}">{{ object.title }}</a></strong></h1>
-          <a href=""></a>
-          <br></br>
-          <p>{{ object.content }}
-        </div>
+			<h1 class="display-6"><strong><a href="#">{{ object.title }}</a></strong></h1>						   
+			<br></br>
+			<p>{{ object.content }}
+          </div>
     </article>
     </div>
     {% endfor %} 
-{% endblock content %}   
+{% endblock content %}  
