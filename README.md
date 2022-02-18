@@ -72,6 +72,9 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#12](DJG_12/) #DjangoSeries- [**A Django Blog In VS Code - Posts Pagination & Quick DB Population - PART IX**](https://medium.com/jungletronics/a-django-blog-in-vs-code-posts-pagination-quick-db-population-2c561310cf3c) 👈
 
+[#13](DJG_13/) #DjangoSeries- [**A Django Blog In VS Code - Self-Service Django Password Reset - PART X**](https://medium.com/jungletronics/a-django-blog-in-vs-code-self-service-django-password-reset-b58575007482) 👈
+
+
 
 
 ###	Quick Start
