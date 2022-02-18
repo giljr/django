@@ -83,7 +83,7 @@ To get this project up and running locally on your computer:
 Set up the Python development environment. We recommend using a Python virtual environment.
 Assuming you have Python setup, run the following commands (if you're on Windows you may use py or py -3 instead of python to start Python):
 
-Check list:
+Check list: [Would you like some help?](https://youtu.be/tr_2k87AdYQ):
 - [ ] pip3 install -r requirements.txt
 - [ ] python3 manage.py makemigrations
 - [ ] python3 manage.py makemigrations
