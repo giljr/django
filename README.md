@@ -74,7 +74,10 @@ Use 👉 [Google Colab](https://colab.research.google.com/notebooks/welcome.ipyn
 
 [#13](DJG_13/) #DjangoSeries- [**A Django Blog In VS Code - Self-Service Django Password Reset - PART X**](https://medium.com/jungletronics/a-django-blog-in-vs-code-self-service-django-password-reset-b58575007482) 👈
 
+[#14](DJG_14/) #DjangoSeries- [**A Django Blog In VS Code - How To Push Your Site To HEROKU - PART XI**](https://medium.com/jungletronics/a-django-blog-in-vs-code-heroku-deploy-how-to-push-your-site-to-production-a3119c4bcb81) 👈
 
+
+😁That is All, Folks!!!!😉 Project We Worked From Dez,2021, and Jan and Fev 2022! 🤯
 
 
 ###	Quick Start
@@ -83,7 +86,8 @@ To get this project up and running locally on your computer:
 Set up the Python development environment. We recommend using a Python virtual environment.
 Assuming you have Python setup, run the following commands (if you're on Windows you may use py or py -3 instead of python to start Python):
 
-Check list: [Would you like some help?](https://youtu.be/tr_2k87AdYQ):
+### Check list:  
+[Would you like some help?](https://youtu.be/tr_2k87AdYQ)
 - [ ] pip3 install -r requirements.txt
 - [ ] python3 manage.py makemigrations
 - [ ] python3 manage.py makemigrations
