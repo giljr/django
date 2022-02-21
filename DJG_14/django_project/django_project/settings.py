@@ -152,9 +152,9 @@ EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_PASS')
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'hnaqmqrl2',
-    'API_KEY': '636918398974155',
-    'API_SECRET': 'd2dRpUFd_8Y4vNbYpkOyd2Tm40c'
+    'CLOUD_NAME': '<YOUR_CLOUD_NAME>',
+    'API_KEY': '<YOUR_API_KEY>',
+    'API_SECRET': '<YOURAPI_SECRET>'
 }
 
 DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
